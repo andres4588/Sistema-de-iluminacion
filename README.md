@@ -6,9 +6,6 @@
 
 ## Hardware
 
-*Node MCU
-*LDR 
-*LED de potencia 
  - Node MCU
   - LDR 
    - LED de potencia 
